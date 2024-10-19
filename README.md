@@ -58,3 +58,21 @@ We will also select the best game apps for the GTTG pi 1.
 The GTTG lottery fund will be used to support the GTTG Developers Conference for every year.The GTTG lottery will use USA Mega Millions, Powerball, or HongKong Mark Six results.
 The GTTG lottery will get 30% revenue in lottery sales.The GTTG lottery will pay out 60% revenue in prizes.
 We will provide the GTTG lottery app soon.
+
+9.Donation Address
+
+ethereum
+0x0C4545D81d022fD9aA3e33173874b6fF843B12E8
+
+bitcoin
+bc1qyydr3t3e8ulmajx6w22k03l3fr62xwyvl22cm5
+
+litecoin
+ltc1qydyg0nrkq9gfj6fz3a2sqrn6hmrxc7pms0c6p5
+
+dogecoin
+DRHaaiTJiz3fmqzkftD81onSE23EhUDzPu
+
+biance bnb
+0x1468aFfAE8452cAded042819c281943b6B8938e6
+
