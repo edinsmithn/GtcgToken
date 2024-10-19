@@ -11,3 +11,6 @@ https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
 https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
 
 Thanks the USDT!
+
+Contact us
+edinsmithn@protonmail.com
