@@ -62,15 +62,19 @@ We will provide the GTTG lottery app soon.
 9.Donation Address
 
 ethereum
+
 0x0C4545D81d022fD9aA3e33173874b6fF843B12E8
 
 bitcoin
+
 bc1qyydr3t3e8ulmajx6w22k03l3fr62xwyvl22cm5
 
 litecoin
+
 ltc1qydyg0nrkq9gfj6fz3a2sqrn6hmrxc7pms0c6p5
 
 dogecoin
+
 DRHaaiTJiz3fmqzkftD81onSE23EhUDzPu
 
 biance bnb
