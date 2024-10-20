@@ -88,3 +88,9 @@ biance bnb
 Welcome to our team.
 We need Android Software Engineers, Frontend Engineers, web Software Engineers, Game Engineers and so on.
 If you want to join, please contact us by email: edinsmithn@protonmail.com.
+
+11.Invest and Financing
+
+we want to collect 100000 dollars(USD) to creat Offshore Company.
+If you want to invest us, please contact us by email: edinsmithn@protonmail.com and we will be very glad.
+
