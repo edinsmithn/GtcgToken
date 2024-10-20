@@ -41,9 +41,11 @@ We will use "NanoPi R6S" and "Orange Pi 5" as GTTG pi 1.You can develop apps on 
 You need to buy it by yourself.
 
 NanoPi R6S
+
 https://www.friendlyelec.com/index.php?route=product/product&product_id=289
 
 Orange Pi 5
+
 http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html
 
 7.How to get the GTTG AppMarket’s app awards
