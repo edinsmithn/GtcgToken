@@ -83,3 +83,8 @@ biance bnb
 
 0x1468aFfAE8452cAded042819c281943b6B8938e6
 
+10. People and Jobs
+    
+Welcome to our team.
+We need Android Software Engineers, Frontend Engineers, web Software Engineers, Game Engineers and so on.
+If you want to join, please contact us by email: edinsmithn@protonmail.com.
